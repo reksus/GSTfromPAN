@@ -1,0 +1,8 @@
+# installing dependencies
+# install using : pip install -r requirements.txt
+
+# additional dependency (geckodriver) : to configure follow this link
+# https://askubuntu.com/questions/870530/how-to-install-geckodriver-in-ubuntu
+
+selenium==3.141.0
+urllib3==1.26.4
